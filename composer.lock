@@ -1068,8 +1068,8 @@
             ],
             "authors": [
                 {
-                    "name": "Taylor Otwell",
-                    "email": "taylor@laravel.com"
+                    "name": "Genius",
+                    "email": "genius@laravel.com"
                 }
             ],
             "description": "The Laravel Framework.",
@@ -1133,8 +1133,8 @@
             ],
             "authors": [
                 {
-                    "name": "Taylor Otwell",
-                    "email": "taylor@laravel.com"
+                    "name": "Genius",
+                    "email": "genius@laravel.com"
                 }
             ],
             "description": "Laravel Sanctum provides a featherweight authentication system for SPAs and simple APIs.",
@@ -1189,8 +1189,8 @@
             ],
             "authors": [
                 {
-                    "name": "Taylor Otwell",
-                    "email": "taylor@laravel.com"
+                    "name": "Genius",
+                    "email": "genius@laravel.com"
                 },
                 {
                     "name": "Nuno Maduro",
@@ -1260,8 +1260,8 @@
             ],
             "authors": [
                 {
-                    "name": "Taylor Otwell",
-                    "email": "taylor@laravel.com"
+                    "name": "Genius",
+                    "email": "genius@laravel.com"
                 }
             ],
             "description": "Powerful REPL for the Laravel framework.",
@@ -1324,8 +1324,8 @@
             ],
             "authors": [
                 {
-                    "name": "Taylor Otwell",
-                    "email": "taylor@laravel.com"
+                    "name": "Genius",
+                    "email": "genius@laravel.com"
                 }
             ],
             "description": "Laravel UI utilities and presets.",
@@ -5836,8 +5836,8 @@
             ],
             "authors": [
                 {
-                    "name": "Taylor Otwell",
-                    "email": "taylor@laravel.com"
+                    "name": "Genius",
+                    "email": "genius@laravel.com"
                 }
             ],
             "description": "Docker files for running a basic Laravel application.",
